@@ -1,0 +1,31 @@
+{
+  "name": "fancybox-polish",
+  "version": "1.0.0",
+  "description": "Polish translation fo Fancybox (newest version).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "@fancyapps/fancybox": ">=3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qrzysio/fancybox-polish.git"
+  },
+  "keywords": [
+    "fancybox",
+    "i18n",
+    "polish",
+    "translation",
+    "language",
+    "pl"
+  ],
+  "author": "Qrzysio <krzysiek@chojnowski.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qrzysio/fancybox-polish/issues"
+  },
+  "homepage": "https://github.com/Qrzysio/fancybox-polish"
+}
