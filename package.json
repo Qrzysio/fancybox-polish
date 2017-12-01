@@ -2,7 +2,7 @@
   "name": "fancybox-polish",
   "version": "1.0.0",
   "description": "Polish translation fo Fancybox (newest version).",
-  "main": "index.js",
+  "main": "fancybox.i18n.polish.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
