@@ -1,14 +1,14 @@
 {
   "name": "fancybox-polish",
-  "version": "1.0.2",
-  "description": "Polish translation fo Fancybox (newest version).",
+  "version": "3.3",
+  "description": "Polish translation fo Fancybox (newest version). Working with Fancybox 3.2.x and 3.3.x.",
   "main": "fancybox.i18n.polish.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {},
   "peerDependencies": {
-    "@fancyapps/fancybox": ">=3.2"
+    "@fancyapps/fancybox": ">=3.3"
   },
   "repository": {
     "type": "git",
