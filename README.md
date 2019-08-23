@@ -2,7 +2,7 @@
 
 This repository adds config to automatically translate fancybox into polish.
 
-The script works with the newest version of [fancybox 3](https://github.com/fancyapps/fancybox). It is compatible with 3.2.x and 3.3.x versions od Fancybx. No other version has benn tested.
+The script works with the newest version of [fancybox 3](https://github.com/fancyapps/fancybox). It is compatible with 3.2.x and above versions od Fancybx.
 
 All you have to do to translate already installed fancybox into polish is to follow two simple steps.
 
@@ -27,11 +27,11 @@ This file contains simple but full config to translate fancybox, which only prov
 ```
 $.fancybox.defaults.i18n.pl = {
     CLOSE       : 'Zamknij',
-    NEXT        : 'Następny',
-    PREV        : 'Poprzedni',
+    NEXT        : 'Dalej',
+    PREV        : 'Wstecz',
     ERROR       : 'Wystąpił błąd podczas ładowania zawartości.<br>Spróbuj ponownie.',
-    PLAY_START  : 'Włącz automatyczne przeglądanie',
-    PLAY_STOP   : 'Zatrzymaj automatyczne przeglądanie',
+    PLAY_START  : 'Włącz pokaz slajdów',
+    PLAY_STOP   : 'Zatrzymaj pokaz slajdów',
     FULL_SCREEN : 'Pełny ekran',
     THUMBS      : 'Miniatury',
     DOWNLOAD    : 'Pobierz',
