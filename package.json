@@ -1,6 +1,6 @@
 {
   "name": "fancybox-polish",
-  "version": "3.5",
+  "version": "3.5.1",
   "description": "Polish translation fo Fancybox (newest version). Working with Fancybox 3.2+",
   "main": "fancybox.i18n.polish.js",
   "scripts": {
