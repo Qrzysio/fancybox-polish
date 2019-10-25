@@ -3,7 +3,7 @@ $.fancybox.defaults.i18n.pl = {
     NEXT        : 'Dalej',
     PREV        : 'Wstecz',
     ERROR       : 'Wystąpił błąd podczas ładowania zawartości.<br>Spróbuj ponownie.',
-    PLAY_START  : 'Włącz pokaz slajdów',
+    PLAY_START  : 'Rozpocznij pokaz slajdów',
     PLAY_STOP   : 'Zatrzymaj pokaz slajdów',
     FULL_SCREEN : 'Pełny ekran',
     THUMBS      : 'Miniatury',
