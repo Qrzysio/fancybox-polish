@@ -2,7 +2,7 @@
 
 This repository adds config to automatically translate fancybox into polish.
 
-The script works with the newest version of [fancybox 3](https://github.com/fancyapps/fancybox). It is compatible with 3.2.x and above versions od Fancybx.
+It works with the newest version of [fancybox 3](https://github.com/fancyapps/fancybox), and is compatible with 3.5.x versions od Fancybx.
 
 All you have to do to translate already installed fancybox into polish is to follow two simple steps.
 
@@ -22,7 +22,7 @@ Remember to add translation __after__ you load main fancybox library.
 
 # What's inside
 
-This file contains simple but full config to translate fancybox, which only provides English and German language for now.
+This file contains simple (but full) config to translate fancybox, which only provides English and German language for now.
 
 ```
 $.fancybox.defaults.i18n.pl = {
